@@ -1,2 +1,2 @@
 # laerdegr
-Lær deg R Test Dokument
+Lær deg R 
